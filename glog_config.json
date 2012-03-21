@@ -1,7 +1,7 @@
 {
-	"blog_repository"   : "https://github.com/guyht/Guido.git",
-	"author"            : "Glog",
-	"blog_title"        : "The Glob Blog",
+	"blog_repository"   : "git://github.com/niallo/BeyondFog-Blog.git",
+	"author"            : "BeyondFog",
+	"blog_title"        : "The BeyondFog Blog",
 	"base_url"          : "",
 	"cache_time"        : 28800,
 	"articles_per_page" : 10,
