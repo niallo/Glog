@@ -1,5 +1,4 @@
 {
-	"blog_repository"   : "git://github.com/niallo/BeyondFog-Blog.git",
 	"author"            : "BeyondFog",
 	"blog_title"        : "The BeyondFog Blog",
 	"base_url"          : "",
